@@ -7,7 +7,7 @@
 **Website:** Melanin Son  
 **Slogan:** The Son of Soil  
 **Founded:** 2024  
-**Founder:** Oratile Skati  
+**Founder:** Lethabo Sekati  
 **Location:** Pretoria North, North Park, South Africa  
 
 ---
@@ -28,16 +28,16 @@ To become a leading sustainable fashion platform that celebrates black culture, 
 - **Integrity:** Transparency and honesty in all business dealings
 
 ### About the Founder
-**Oratile Skati** - Founder and Visionary
+**Lethabo Sekati** - Founder and Visionary
 
-Fashion has been in Oratile's roots from a young age. With a deep passion for style and a commitment to social responsibility, Oratile envisioned creating a platform that celebrates black empowerment while promoting sustainable fashion practices.
+Fashion has been in Lethabo's roots from a young age. With a deep passion for style and a commitment to social responsibility, Lethabo envisioned creating a platform that celebrates black empowerment while promoting sustainable fashion practices.
 
 ---
 
 ## Contact Information
 
 - **Email:** malulekat473@gmail.com
-- **Instagram:** @Melanin.son
+- **Instagram:** @melanin_son1
 - **Location:** Pretoria North, North Park, Pretoria, South Africa
 
 ---
@@ -72,7 +72,7 @@ melanin-son/
 
 2. **About Us (pages/about.html)**
    - Company story and history
-   - Founder information (Oratile Skati)
+   - Founder information (Lethabo Sekati)
    - Mission, vision, and values
    - Why choose Melanin Son
 
@@ -83,7 +83,7 @@ melanin-son/
    - Contact information for inquiries
 
 4. **Donate Clothes (pages/donate.html)**
-   - Donation benefits (50% discount)
+   - Donation benefits (25% discount)
    - Step-by-step donation process
    - Acceptance criteria for donations
    - Contact and scheduling information
@@ -100,7 +100,7 @@ melanin-son/
 
 ### 1. Donation Program
 - Users can donate gently used clothing items
-- Donors receive **50% discount** on all shop purchases
+- Donors receive **25% discount** on all shop purchases
 - Simple verification process using valid ID
 - Donor certificate for tracking and verification
 
@@ -163,7 +163,7 @@ To measure the success of Melanin Son, we will track the following KPIs:
    - Donor satisfaction rate
 
 6. **Discount/Loyalty Program**
-   - Number of donors using 50% discount
+   - Number of donors using 25% discount
    - Repeat purchases from donors
    - Average discount usage rate
 
@@ -252,7 +252,7 @@ To measure the success of Melanin Son, we will track the following KPIs:
 For questions, suggestions, or to get involved with Melanin Son:
 
 - **Email:** malulekat473@gmail.com
-- **Instagram:** @Melanin.son
+- **Instagram:** @melanin_son1
 - **Visit Us:** Pretoria North, North Park, South Africa
 
 ---
@@ -267,7 +267,7 @@ For questions, suggestions, or to get involved with Melanin Son:
 
 ## Author & Founder
 
-**Oratile Skati** - Founder and Visionary
+**Lethabo Sekati** - Founder and Visionary
 
 Fashion has been in his roots from a young age. Melanin Son represents his vision of empowering the community through sustainable and quality fashion.
 
@@ -288,10 +288,10 @@ Fashion has been in his roots from a young age. Melanin Son represents his visio
 ## Frequently Asked Questions (FAQ)
 
 **Q: How do I donate clothes?**  
-A: Visit the "Donate Clothes" page or contact us via email (malulekat473@gmail.com) or Instagram (@Melanin.son) to arrange a donation.
+A: Visit the "Donate Clothes" page or contact us via email (malulekat473@gmail.com) or Instagram (@melanin_son1) to arrange a donation.
 
-**Q: What is the 50% discount for donors?**  
-A: Verified donors receive a 50% discount on all purchases in the Melanin Son shop for one year from their donation date.
+**Q: What is the 25% discount for donors?**  
+A: Verified donors receive a 25% discount on all purchases in the Melanin Son shop for one year from their donation date.
 
 **Q: What identification do I need to provide?**  
 A: You'll need to provide a valid ID (passport, driver's license, etc.) for verification purposes.

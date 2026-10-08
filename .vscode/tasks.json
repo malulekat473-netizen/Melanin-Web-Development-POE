@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start Melanin Son server",
+            "type": "process",
+            "command": "node",
+            "args": ["server.js"],
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "melanin-son-server",
+                "pattern": {
+                    "regexp": ".*"
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Server running at http://localhost:8000/",
+                    "endsPattern": "Server running at http://localhost:8000/"
+                }
+            }
+        }
+    ]
+}
