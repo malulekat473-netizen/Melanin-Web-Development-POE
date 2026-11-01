@@ -4,11 +4,13 @@
 
 **Melanin Son** is a sustainable fashion platform dedicated to black empowerment and community support. The website enables users to donate clothes and receive exclusive discounts, while also providing a shop to browse and purchase quality fashion items.
 
+**Business Status:** This is a currently running business.
+
 **Website:** Melanin Son  
 **Slogan:** The Son of Soil  
 **Founded:** 2024  
 **Founder:** Lethabo Sekati  
-**Location:** Pretoria North, North Park, South Africa  
+**Location:** [Shop 3, Pretoria North, North Park, South Africa](https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjQ2InxqKqXAxUAAAAAHQAAAAAQBg..i&udm&fvr=1&pvq=CgsvZy8xdG1sN3NkZyIKCgRwYXJrEAIYAw&lqi=ChpwcmV0b3JpYSBub3J0aCwgbm9ydGggcGFya0iOw4-55oCAgAhaKRADGAAYARgCGAMiGXByZXRvcmlhIG5vcnRoIG5vcnRoIHBhcmsgAggDkgEPc2hvcHBpbmdfY2VudGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5VZW1KdWR6WkJSUkFC-gEECAAQJg&cs=0&um=1&ie=UTF-8&fb=1&gl=za&sa=X&ftid=0x1ebfd912ebd1cf31:0x3fe014ef9675c2a2)  
 
 ---
 
@@ -39,6 +41,7 @@ Fashion has been in Lethabo's roots from a young age. With a deep passion for st
 - **Email:** malulekat473@gmail.com
 - **Instagram:** @melanin_son1
 - **Location:** Pretoria North, North Park, Pretoria, South Africa
+- **Directions:** [Shop 3, Pretoria North, North Park](https://maps.google.com/maps?vet=10CAAQoqAOahcKEwjQ2InxqKqXAxUAAAAAHQAAAAAQBg..i&udm&fvr=1&pvq=CgsvZy8xdG1sN3NkZyIKCgRwYXJrEAIYAw&lqi=ChpwcmV0b3JpYSBub3J0aCwgbm9ydGggcGFya0iOw4-55oCAgAhaKRADGAAYARgCGAMiGXByZXRvcmlhIG5vcnRoIG5vcnRoIHBhcmsgAggDkgEPc2hvcHBpbmdfY2VudGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5VZW1KdWR6WkJSUkFC-gEECAAQJg&cs=0&um=1&ie=UTF-8&fb=1&gl=za&sa=X&ftid=0x1ebfd912ebd1cf31:0x3fe014ef9675c2a2)
 
 ---
 
